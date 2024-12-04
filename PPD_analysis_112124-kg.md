@@ -2,40 +2,39 @@
 Analysis on PPD surveys 11/21
 ===============================
 
-The Philadelphia Police Department (PPD), in collaboration with researchers from the University of Pennsylvania, launched a Diversity, Equity, and Inclusion (DEI) survey to assess and advance its efforts toward creating a truly diverse, equitable, and inclusive workplace. This initiative is centered on fostering an environment that ensures fair treatment for all members, regardless of identity, and is a step toward aligning PPD’s practices with DEI goals. Working closely with the PPD's Interim Director of DEI, the survey was developed and launched on October 23, with a closing date set for November 20. Following the survey's release, PPD’s Director of Communications implemented a comprehensive outreach campaign to encourage maximum participation. Responses were collected both online and mail-in submissions, providing valuable insights into the department’s current climate and areas for improvement in DEI.
+The Philadelphia Police Department (PPD), in collaboration with researchers from the University of Pennsylvania, launched a Diversity, Equity, and Inclusion (DEI) survey to assess and advance its efforts to create a truly diverse, equitable, and inclusive workplace. This initiative is centered on fostering an environment that ensures fair treatment for all members, regardless of identity, and is a step toward aligning PPD’s practices with DEI goals. Working closely with the PPD's Interim Director of DEI, the survey was developed and launched on October 23. It was closed on November 20. Following the survey's release, PPD’s Director of Communications implemented a comprehensive outreach campaign to encourage maximum participation. Responses were collected both online and mail-in submissions, providing valuable insights into the department’s current climate and areas for improvement in DEI.
 
 This report consists of three sections of analysis: **Basic Responses Distribution**, showing the distribution of respondent locations, dates, and progress; **Demographic Distribution**, covering the distributions of gender, race, sworn status, and years of service; and **Answer Distribution and Word Cloud**, displaying the response distributions and a word cloud for open-ended questions.
 
 # Basic Responses Distribution
 
-We convert IP address to actual cities and countries. All of the results are in United States and following is the distribution of majority cities with more than 5 devices from 1290 survey responses including 4 mail-in responses:
+Here is the distribution of cities wherein the survey was completed, based on the IP Addresses. All of the results are in United States. The following is the distribution of all cities with more than 5 devices. In all, there were 1290 survey responses including 4 mail-in responses:
 
-- Philadelphia: 1004 devices
+- Philadelphia: 1006 devices
 - White Plains: 42 devices
-- New York: 23 devices
+- New York: 24 devices
 - Reston: 16 devices
 - Lansdale: 8 devices
 - Allentown: 7 devices
 - St Louis: 7 devices
-- Arlington: 6 devices
 - Dulles: 6 devices
 - Bensalem: 6 devices
 - Anaheim: 6 devices
 
-We plot the survey received from each date and its completeness where orange is those fully completed surveys and blue are partially completed surveys:
+We plot how many surveys were received on each date. The orange bars represent those fully completed. The blue bars represent partially completed surveys:
 
 ![Survey Distribution by Date](/plots/survey_distribution.png)
 
 
 
-We also plot the survey's progress distribution that most of them are highly completed:
+We also plot the survey's progress distribution:
 
 ![Survey Progress Distribution](/plots/progress_distribution.png)
 
 
 # Demographic distribution 
 
- **Note**: Due to the small number of responses in certain categories, **Non-binary** has been combined with **Other** under gender, and **Native American or Alaskan Native** has been combined with **A race/ethnicity not listed here** in race. 
+ **Note**: Due to the small number of responses in certain categories, **Non-binary** was combined with **Other** under gender, and **Native American or Alaskan Native** was combined with **A race/ethnicity not listed here** in race. 
 
 ## Q36
  **What is your gender?** 
@@ -69,6 +68,19 @@ We also plot the survey's progress distribution that most of them are highly com
 - 11-15 years: 10.35%
 - 16-25 years: 32.70%
 - More than 25 years: 34.85%
+
+# Answer Distribution and Word Cloud
+
+**Note**: Questions Q14, Q22, Q28, Q30, and Q34 are open-ended and include word clouds. Questions Q12-3 and Q33 are multiple-choice. 
+
+## Q1
+ **Do you agree or disagree with the following statements? I am valued within the Philadelphia Police Department.** 
+
+- Strongly agree: 8.50%
+- Somewhat agree: 34.26%
+- Somewhat disagree: 23.43%
+- Strongly disagree: 29.34%
+- Don't know/not sure: 4.47%
 
 # Answer Distribution and Word Cloud
 
@@ -1546,97 +1558,6 @@ We also plot the survey's progress distribution that most of them are highly com
 
 ![Word Cloud for Q22](/wordclouds/Q22_2.png)
 
-### Text summary:
--	Heavy qualitative data surrounding Northwestern’s training programs availabilities, but limited availability in PPD 
-- Large amounts of results in “training not public”
-
-- people who said never
-  - Summary: Majority of those who replied never say that training is simply not or
-very scarcely provided or that it is only given to those who know a higher up in
-the department (nepotism/favoritism). Many said that opportunities are not made
-known and that officers or individual departments had to pay for their own
-training and take off on their own time. Some said there was no one to provide
-training and that internal leadership was poor or lacking. Lastly, many said MPO
-was provided, but that MPO is not enough and will not help for career
-advancement.
-  - Answers only given once or twice
-    - Personal experience bc of race and gender (1)
-    - Training only for new cops
-    - Only street personnel receive
-    - Training not for street personnel bc the are needed on the street
-    - Used to receive training but things have changed
-    - Mainly offered to non sworn personnel
-    - Mainly offered tks worn personnel
-    - Instructors subvert their own subjects?
-  - Never demographics
-- People who said usually
-  - Summary: The majority of those who said "yes" described the frequency of
-training or the messages they received regarding training, often basing their
-answers on personal experience. However, most of these responses mentioned
-regular or annual training but did not address career growth, promotion, or the
-acquisition of special skills. Although some respondents noted that there is room
-for promotion, the majority did not.
-  - A small number of responses indicated financial barriers, a lack of knowledge,
-favoritism, training being limited to higher-ups or those in forensics, or
-dissatisfaction with the quality of available training options. Lastly, a few
-respondents mentioned that personnel need to request training more often or that
-training is only provided upon request.
-- Sometimes
-  - Favoritism and Unequal Access (majority of responses)
-    - Personal experience of favoritism, you aren't told about training unless
-you know someone, many said training is easier for sworn members to get,
-some said easier for higher ranked to get etc
-- 1 black male said favoritism for certain racial groups
-  - Limited Opportunities or Availability (second most popular response type)
-    - Few opportunities, not readily available, rarely heard about hard to get
-approved etc
-  - Barriers to Access
-    - Hard to get training that requires time off, financial restrictions, not
-enough staff, getting increasing more difficult to get training
-  - Mandatory or Basic Training Only
-    - Mainly mandatory, just MPO etc
-  - Opportunities Present but Limited Impact
-    - Yes, but could be more often, Gave an example of training, Yes, but not
-based on merit, Yes, but not for career advancement, Yes, but poor
-supervisors prevent utilization, Outside places offer advanced training,
-College fairs and tuition occasionally offered, Some interoffice transfers
-(rare)
-  - Available but Underutilized
-    - Available and made public but hard to get, Frequent postings, Yes but
-training is not set up by the department, Yes but the department doesn’t
-take advantage, Occasionally notified
-  - Specialized or Advanced Training Gaps
-    - Specialized training is offeree, training is more for street officers than
-sworn personnel, Not for veterans of dept, hard to find advanced training,
-Little offered for supervisors
-  - Suggestions for Improvement
-    - Expanded training, Better evaluation, Need more training opportunities,
-More focus on personnel development, Staff don’t value professional
-growth
-- Always:
-  - Most people said there were lots of opportunities or that opportunities were made
-known pretty often. Some pointed to everyone being able to apply and
-promotional tests being readily available. There were a few outlier responses
-about mental health resources and online training.
-- Hardly ever:
-  - Summary: Most respondents who selected Hardy ever discussed favoritism in
-tehri response. Some talked about budget, being understaffed, the high cost of
-training, lack of information about training, a lack of career advancement, bad
-quality training, and their own experience being overlooked for training
-opportunities.
-- Patterns based on Experience:
-  - Always: Most likely chosen by those with more than 25 years of experience.
-  - Hardly ever: Most likely chosen by those with 16-25 years of experience.
-  - Never: Most likely chosen by those with 16-25 years of experience.
-  - Sometimes: Most likely chosen by those with More than 25 years of experience.
-  - Usually: Most likely chosen by those with More than 25 years of experience.
-- Patterns based on demographics
-  - Most likely to pick sometimes and usually: hispanic women
-  - Most likely to pick hardly ever: white men
-  - Most likely to pick never: white men
-  - Most likely to pick always: black women
-
-
 ## Q23_1
  **Please tell us if you agree or disagree with the following statements. 
  In the Philadelphia Police Department, the disciplinary process is fair.** 
@@ -1960,52 +1881,6 @@ opportunities.
 ### WordCloud for **Somewhat disagree**, **Strongly disagree** 
 ![Word Cloud for Q28](/wordclouds/Q28_2.png)
 
-### Text summary:
--	Large amount of results transfers are limited to:	Affirmative Action: gender, sexual orientation, race 
--	Main results: nepotism : ex. “You need to know someone for transfer”; “who you know”
-
-- Most respondents selected disagree or strongly disagree (over half).
-  - Respondents overwhelmingly cited favoritism as the reason for transfers and promotions.
-  - Some said those who get moved up tend to be bad at their jobs or less qualified.
-  - Some said qualification or knowledge has little bearing on transfer or promotion.
-  - Some said there are few opportunities.
-  - Some shared their personal experience of being passed over for transfer and promotion.
-
-- Those that selected agree (somewhat or strongly):
-  - Most still had negative feelings about the process despite selecting agree.
-    - Many cited favoritism directly in the process (around 15 responses).
-    - Similarly, some indirectly cited favoritism:
-      - Unqualified individuals advance (around 3 responses).
-      - Supervisor influence or gatekeeping (1 response).
-    - Some said that qualifications did not matter as much as they should:
-      - Qualified individuals may not succeed – around 2 responses.
-      - Opportunity and fairness rarely tied to qualifications – about 2 responses.
-    - Some had positive feelings that things were improving or they had positive experiences with the system:
-      - Around 15 respondents said the process seems fair but is unclear.
-      - Some just expressed satisfaction – around 5 people.
-      - A few said simply that promotions are fair.
-      - A few said they thought improvements were being made.
-    - A small number, about 4, called for more transparency and other similar improvements to the system.
-    - Many did not elaborate on why they picked their answer.
-
-- Those that responded "don't know":
-  - Many cited having little to no experience with the process.
-
-- Demographics:
-  - Most likely to pick strongly agree: Black females.
-  - Most likely to pick strongly disagree: White males.
-  - Most likely to pick somewhat agree: White males.
-  - Most likely to pick somewhat disagree: White males.
-  - Most likely to pick don't know: White females.
-
-- Experience:
-  - "Don't know" was most likely chosen by those with 16–25 years of experience.
-  - "Somewhat agree" was most likely chosen by those with more than 25 years of experience.
-  - "Somewhat disagree" was most likely chosen by those with more than 25 years of experience.
-  - "Strongly agree" was most likely chosen by those with more than 25 years of experience.
-  - "Strongly disagree" was most likely chosen by those with 16–25 years of experience.
-
-  
 ## Q29
  **The process for transfers and assignments within the Philadelphia Police Department is transparent.** 
 
@@ -2059,13 +1934,6 @@ opportunities.
 
 ### WordCloud for **Somewhat disagree**, **Strongly disagree** 
 ![Word Cloud for Q30](/wordclouds/Q30_2.png)
-
-### Text summary:
--	Transfer processes are extremely “opaque” 
--	There are no opportunities to see within transfer process
--	Strong correlation between strongly agreeing transfer is fair with identifying how to transfer 
--	Transfer processes are only available known in nepotistic situations: many uses of nepotism again
--	Majority qualitative data disagrees that transfer is fair and transparent
 
 ## Q31
  **The process for promotions within the Philadelphia Police Department is fair.** 
